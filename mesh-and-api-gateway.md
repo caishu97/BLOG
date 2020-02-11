@@ -1,6 +1,6 @@
 # 简单讨论下Mesh和API网关
 
-今天有人贴了这个译文[《使用了 Service Mesh 后我还需要 API 网关吗？》](https://mp.weixin.qq.com/s/XX4qSBwRBAX-4pYXtd4Q8A),原文在这里：[《Do I Need an API Gateway if I Use a Service Mesh?》]（https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/）。其实之前还有个蚂蚁的文章，也列在这里，感兴趣的可以顺路一起看下：[蚂蚁金服 API Gateway Mesh 思考与实践](https://mp.weixin.qq.com/s/o4yrZXhW4tnggctL03t7kw)。这里不去讨论这些文章内容的本身和观点，只是正好有人讨论这个，我就把我的理解也写出来，可能有些观点是重合的，可能有些观点是冲突的，希望多一种声音带给大家多一些思考。
+今天有人贴了这个译文[“使用了 Service Mesh 后我还需要 API 网关吗？”](https://mp.weixin.qq.com/s/XX4qSBwRBAX-4pYXtd4Q8A),原文在这里：[“Do I Need an API Gateway if I Use a Service Mesh?”]（https://blog.christianposta.com/microservices/do-i-need-an-api-gateway-if-i-have-a-service-mesh/）。其实之前还有个蚂蚁的文章，也列在这里，感兴趣的可以顺路一起看下：[“蚂蚁金服 API Gateway Mesh 思考与实践”](https://mp.weixin.qq.com/s/o4yrZXhW4tnggctL03t7kw)。这里不去讨论这些文章内容的本身和观点，只是正好有人讨论这个，我就把我的理解也写出来，可能有些观点是重合的，可能有些观点是冲突的，希望多一种声音带给大家多一些思考。
 
 长话短说：
 
